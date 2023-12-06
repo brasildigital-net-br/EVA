@@ -115,3 +115,28 @@ def client_cidade(client_data_brasil):
         info_cidade.append(cidade['cidade'])
     info_cidade = info_cidade[0]
     return info_cidade
+
+def client_estado(client_data_brasil):
+    info_estado = []
+    registros = client_data_brasil['registros']
+    for uf in registros:
+        info_estado.append(uf['uf'])
+    info_estado = info_estado[0]
+    return info_estado
+
+
+def client_complemento(client_data_brasil):
+    info_complemento = []
+    registros = client_data_brasil['registros']
+    for complemento in registros:
+        info_complemento.append(complemento['complemento'])
+    info_complemento = info_complemento[0]
+    return info_complemento
+
+
+
+
+
+
+
+

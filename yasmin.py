@@ -39,11 +39,19 @@ if __name__ == '__main__':
 
     client_cidade = ixc_cidade.get_cidade_data_ixc(cidade_id, client_base)
 
-    
+    estado_id = ixc_client.client_estado(client_info)
 
-    print(f"The connection value for client {client_id} is {mac_list} and the ip is: {ip} and the client name is: {name} and his number: {cell}")
+    complemento = ixc_client.client_complemento(client_info)
+
+    print(estado_id)
+
+    estado_nome = ixc_uf.get_estado_data_ixc(estado_id, client_base)
+
+
+
 
     print("--------- ATENDIMENTO ----------")
+
     print("\tNOME: {}".format(name))
     print("\tCONTRATO: {}".format(contrato))
     print("\tCPF/CNPJ: {}".format(cpf_cnpj))
@@ -53,6 +61,9 @@ if __name__ == '__main__':
     print("\t\tCEP: {}".format(postal_code))
     print("\t\tBAIRRO: {}".format(client_bairro))
     print("\t\tCIDADE: {}".format(client_cidade))
-    # print("\t\tESTADO: {}".format(estado))
-    # print("\t\tCOMPLEMENTO: {}".format(complemento))
-    # print("\n\tATENDENTE: {}".format(atendente))
+    print("\t\tESTADO: {}".format(estado_nome))
+    print("\t\tCOMPLEMENTO: {}".format(complemento))
+
+    print("-- INFORMAÇÕES DO EQUIPAMENTO --")
+
+    
