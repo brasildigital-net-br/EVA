@@ -21,3 +21,6 @@ def get_client_base(client_data):
     base = base[1]
     return base
 
+
+
+

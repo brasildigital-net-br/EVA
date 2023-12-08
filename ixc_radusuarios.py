@@ -14,7 +14,7 @@ def get_radius_data_ixc_brasil(client_id, base):
         ixc_login = os.getenv('IXC_LOGIN')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0002": # Candeias
-        ixc_host = os.getenv('IXC_CANDEIAS_URI')
+        ixc_host = os.getenv('IXC_CANDEIASNET_URI')
         ixc_login = os.getenv('IXC_LOGIN')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0003": #BR364
@@ -60,4 +60,5 @@ def data_client_ip(client_data_brasil):
         mac_list.append(conexao['ip'])
     mac_list = mac_list[0]
     return mac_list
+
 

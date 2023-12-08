@@ -15,7 +15,7 @@ def get_client_data_ixc(client_id, base):
         ixc_clientes = os.getenv('IXC_CLIENTES')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0002": # Candeias
-        ixc_host = os.getenv('IXC_CANDEIAS_URI')
+        ixc_host = os.getenv('IXC_CANDEIASNET_URI')
         ixc_clientes = os.getenv('IXC_CLIENTES')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0003": #BR364

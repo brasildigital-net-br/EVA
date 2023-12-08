@@ -15,7 +15,7 @@ def get_cidade_data_ixc(cidade_id, base):
         ixc_cidade = os.getenv('IXC_CIDADE')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0002": # Candeias
-        ixc_host = os.getenv('IXC_CANDEIAS_URI')
+        ixc_host = os.getenv('IXC_CANDEIASNET_URI')
         ixc_cidade = os.getenv('IXC_CIDADE')
         ixc_aut = os.getenv('Authorization_142')
     elif base == "0003": #BR364

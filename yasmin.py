@@ -43,14 +43,13 @@ if __name__ == '__main__':
 
     complemento = ixc_client.client_complemento(client_info)
 
-    print(estado_id)
-
     estado_nome = ixc_uf.get_estado_data_ixc(estado_id, client_base)
 
+    print(mac_list)
 
-
-
-    print("--------- ATENDIMENTO ----------")
+    print("|------------ ATENDIMENTO -------------|")
+    print("")
+    print("----------- CLIENTE -----------")
 
     print("\tNOME: {}".format(name))
     print("\tCONTRATO: {}".format(contrato))
@@ -66,4 +65,3 @@ if __name__ == '__main__':
 
     print("-- INFORMAÇÕES DO EQUIPAMENTO --")
 
-    
