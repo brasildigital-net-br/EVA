@@ -16,6 +16,7 @@ def get_radius_data_ixc_brasil(ip, ixc_host, ixc_aut):
         "rp": "9999999", # O ceu e o limite
         "qtype": "radusuarios.ip",
         "query": f"{ip}",
+        "oper":"=",
         "page": "1"
     })
 

@@ -2,7 +2,6 @@ import ipaddress
 '''
 200.219.0.0/23
 
-
 177.221.56.0/24
 177.221.58.0/24
 177.221.59.0/24
@@ -15,14 +14,12 @@ import ipaddress
 179.63.158.0/24
 179.63.159.0/24
 
-
 177.221.57.128/25
 168.205.124.128/25
 168.205.125.128/25
 168.205.126.128/25
 45.179.86.128/25
 187.63.239.0/25
-
 
 '''
 def block_ip(ip):
@@ -55,6 +52,18 @@ def block_ip(ip):
     return False
 
 
-# ips_disponiveis = block_ip("100.64.83.93")
-# ips = block_ip("179.63.159.0") # true q ta no range
-# print(ips_disponiveis, ips)
+
+def const_prefix(ip):
+    prefixo = ipaddress.IPv4Network(ip, strict=False)
+    ips = []
+    for ipv4 in prefixo:
+        ips.append(str(ipv4))
+
+    return ips
+
+'''
+168.205.124.0/24
+100.64.0.0/10
+45.179.86.128/25
+
+'''

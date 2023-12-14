@@ -3,11 +3,10 @@ import ixc_client
 from dotenv import load_dotenv as env
 import os
 import ixc_locked_ip
-
-# 100.64.83.
+import json
+from alive_progress import alive_bar
 
 ##################################### E D U A R D A ###########################################
-
 
 if __name__ == '__main__':
     env(".env")
@@ -26,62 +25,89 @@ if __name__ == '__main__':
 
     zip = list(zip(host, aut))
 
-    # Input do ip para consulta
-    ip = input("Insiria o ip para verificar a disponibilidade:")
-    # host = ixc_364
-    # print(ixc_364)
-    # ixc_aut = aut_364
-    #ip_locked = ixc_locked_ip.block_ip(ip)
+    ip = input("Insiria o ip com o pref:")
 
-    #print(ip_locked)
+    ip_result = {"Prefixos": []}
 
-    for h, a in zip:
+    #alunos = {"alunos": []}
 
-        ip_consulting = ixc_ip.get_radius_data_ixc_brasil(ip, h, a)
-        mostra_ip = int(ixc_ip.ip_list(ip_consulting))
+
+    
+    range_ipv4 = ixc_locked_ip.const_prefix(ip)
+
+    with alive_bar(len(range_ipv4), title='Consultando IPs') as bar:  
+        for ipv4 in range_ipv4:
         
-        if ixc_locked_ip.block_ip(ip) == True:
+            if ixc_locked_ip.block_ip(ipv4) == True:
+                print("IP {} RESERVADO!".format(ipv4))
+            elif ipv4 == "8.8.8.8":
+                print("Deixa a Google em paz rapaz!")
+            else:
+                for h, a in zip:
+                    ip_consulting = ixc_ip.get_radius_data_ixc_brasil(ipv4, h, a)
+                    mostra_ip = int(ixc_ip.ip_list(ip_consulting))
+    
+                    if mostra_ip == 0:
+                        #print("IP LIVRE: {}  BASE {}".format(ipv4, h))
+                        if h == "ixc.brasildigital.net.br":
+                            brd = False
+                        elif h == "ixc.candeiasnet.com.br":
+                            cd = False 
+                        elif h == "ixc.br364telecom.com.br":
+                            br364 = False
+                        else:
+                            print("")
+                    elif mostra_ip > 0:
+                        #print("IP {} EM USO NA BASE {}".format(ipv4, h))
+                        if h == "ixc.brasildigital.net.br":
+                            brd = True
+                        elif h == "ixc.candeiasnet.com.br":
+                            cd = True
+                        elif h == "ixc.br364telecom.com.br":
+                            br364 = True
+                        else:
+                            print("")                
+            bar()
 
-            print("IP RESEREVADO!")
-        
-        elif ip == "8.8.8.8":
-            print("Deixa a Google em paz rapaz!")
-        
-        elif mostra_ip == 0 and ixc_locked_ip.block_ip(ip) == False:
-
-            print("|-------------O IP SE ENCONTRA DISPONIVEL NA BASE: {}------------|".format(h))
-            print("")
-
-        elif mostra_ip > 0 and ixc_locked_ip.block_ip(ip) == False:
-
-            print("|-------------IP EM USO NA BASE: {}---------------------|".format(h))
-            get_contract = ixc_ip.client_id(ip_consulting)
-            #contract = get_contract[0]
-            # contract = int(contract)
-            # get_name = ixc_client.client_name(contract)
-            #print(type(get_contract))
+            ip_result["Prefixos"].append(
+                {
+                "IP": ipv4,
+                "ixc.brasildigital.net.br": brd,
+                "ixc.candeiasnet.com.br": cd,
+                "ixc.br364telecom.com.br": br364
+                }
+            )
             
-            # for i in get_contract:
-            #     get_name = ixc_client.client_name(get_contract)
-            print("")
-            # for i in get_contract:
-            #     print(i)
-            #print("\t\t\tCliente {}, contrato {}".format(get_contract))
-
-        else:
-            print("")
+            with open('ip_result.json', 'w') as f:
+                json.dump(ip_result, f, indent=3)
 
 
-        #get_client_name = ixc_client.client_name(get_contract)
+'''
 
+1 - 177.221.57.0/25 
+2 - 168.205.124.0/25 
+3 - 168.205.125.0/25 
+4 - 168.205.126.0/25 
+5 - 45.179.86.0/25   
+6 - 187.236.239.128/25
+7 - 168.205.126.0/25
 
+2688
 
-
-
-# 100.64.83.93
-# 179.63.156.98
-        
+Criar um json para cada prefixo 
 
 
 
+177.221.57.0/25 - Vai do 177.221.57.0 até o 177.221.57.127 - usar em clientes cnpj
+168.205.124.0/25 - vai do 168.205.124.0 até o 168.205.124.127 - usar em clientes cnpj
+168.205.125.0/25 - vai do 168.205.125.0 até o 168.205.125.127 - usar em clientes cnpj
+168.205.126.0/25 -  vai do 168.206.126.0 até o 168.205.126.126 - usar em clientes cpf
+45.179.86.0/25   - vai do 45.179.86.0 até o 45.179.86.127 - usar em clientes cnpj
+187.236.239.128/25 - vai do 187.63.239.128 até o 187.236.255 - usar em clientes cnpj
 
+
+168.205.126.0/25 -  vai do 168.206.126.0 até o 168.205.126.126 - usar em clientes cpf
+
+
+
+'''

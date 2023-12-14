@@ -1,0 +1,772 @@
+{
+   "Prefixos": [
+      {
+         "IP": "177.221.57.0",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.1",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.2",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.3",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.4",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.5",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.6",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.7",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.8",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.9",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.10",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.11",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.12",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.13",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.14",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.15",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.16",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.17",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.18",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.19",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.20",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.21",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "IP": "177.221.57.22",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.23",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.24",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.25",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.26",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.27",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.28",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.29",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.30",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.31",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.32",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.33",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.34",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.35",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.36",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.37",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.38",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.39",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.40",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.41",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.42",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.43",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.44",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.45",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.46",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.47",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.48",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.49",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.50",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.51",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.52",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.53",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.54",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.55",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.56",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.57",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.58",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.59",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.60",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.61",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.62",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.63",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.64",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.65",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.66",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.67",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "IP": "177.221.57.68",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.69",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.70",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.71",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.72",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.73",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.74",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.75",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.76",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.77",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.78",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.79",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.80",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.81",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.82",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.83",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.84",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.85",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.86",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.87",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.88",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.89",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.90",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.91",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.92",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.93",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.94",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.95",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.96",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.97",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.98",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.99",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.100",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.101",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.102",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.103",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.104",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.105",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.106",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.107",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.108",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.109",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.110",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.111",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.112",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "IP": "177.221.57.113",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.114",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.115",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.116",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.117",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.118",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.119",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.120",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.121",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.122",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.123",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.124",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.125",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.126",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "IP": "177.221.57.127",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      }
+   ]
+}
