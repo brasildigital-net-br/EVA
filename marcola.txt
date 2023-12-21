@@ -1,0 +1,17 @@
+
+Info: The max number of VTY users is 21, the number of current VTY users online is 1, and total number of terminal users online is 1.
+      The current login time is 2023-12-21 09:30:48-04:00.
+      The last login time is 2023-12-21 09:22:48-04:00 from 10.160.19.84 through SSH.
+<BRD-PVO-DPD-R:Z>
+Route Flags: R - relay, D - download to fib, T - to vpn-instance, B - black hole route
+------------------------------------------------------------------------------
+Routing Table : _public_
+         Destinations : 1        Routes : 1         
+
+Destination/Mask    Proto   Pre  Cost        Flags NextHop         Interface
+
+   45.179.86.13/32  Unr     63   0             D   45.179.86.13    Eth-Trunk0.2022			
+<BRD-PVO-DPD-R:Z>
+<BRD-PVO-DPD-R:Z>
+<BRD-PVO-DPD-R:Z>
+Info: The max number of VTY users is 21, and the number of current VTY users on line is 0.

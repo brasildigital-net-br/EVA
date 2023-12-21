@@ -1,0 +1,5380 @@
+{
+   "prefixos": [
+      {
+         "ip": "45.179.86.0",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.1",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.2",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.3",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.4",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.5",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.6",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.7",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.8",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.9",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.10",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.11",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.12",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.13",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.14",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.15",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.16",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.17",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.18",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.19",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.20",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.21",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.22",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.23",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.24",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.25",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.26",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.27",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.28",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.29",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.30",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.31",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.32",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.33",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.34",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.35",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.36",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.37",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.38",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.39",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.40",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.41",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.42",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.43",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.44",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.45",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.46",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.47",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.48",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.49",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.50",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.51",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.52",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.53",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.54",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.55",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.56",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.57",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.58",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.59",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.60",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.61",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.62",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.63",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.64",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.65",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.66",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.67",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.68",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.69",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.70",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.71",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.72",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.73",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.74",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.75",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.76",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.77",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.78",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.79",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.80",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.81",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.82",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.83",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.84",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.85",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.86",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.87",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.88",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.89",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.90",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.91",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.92",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.93",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.94",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.95",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.96",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.97",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.98",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.99",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.100",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.101",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.102",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.103",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.104",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.105",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.106",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.107",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.108",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.109",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.110",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.111",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.112",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.113",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.114",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.115",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.116",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.117",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "45.179.86.118",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.119",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.120",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.121",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.122",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.123",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.124",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.125",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.126",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "45.179.86.127",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.0",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.1",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.2",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.3",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.4",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.5",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.6",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.7",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.8",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.9",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.10",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.11",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.12",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.13",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.14",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.15",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.16",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.17",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.18",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.19",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.20",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.21",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.22",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.23",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.24",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.25",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.26",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.27",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.28",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.29",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.30",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.31",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.32",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.33",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.34",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.35",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.36",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.37",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.38",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.39",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.40",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.41",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.42",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.43",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.44",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.45",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.46",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.47",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.48",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.49",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.50",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.51",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.52",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.53",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.54",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.55",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.56",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.57",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.58",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.59",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.60",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.61",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.62",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.63",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.64",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.65",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.66",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.67",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.68",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.69",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.70",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.71",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.72",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.73",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.74",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.75",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.76",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.77",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.78",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.79",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.80",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.81",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.82",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.83",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.84",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.85",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.86",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.87",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.88",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.89",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.90",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.91",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.92",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.93",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.94",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.95",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.96",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.97",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.98",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.99",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.100",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.101",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.102",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.103",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.104",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.105",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.106",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.107",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.108",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.109",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.110",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.111",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.124.112",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.113",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.114",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.115",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.116",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.117",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.118",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.119",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.120",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.121",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.122",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.123",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.124",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.125",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.126",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.124.127",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.0",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.1",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.2",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.3",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.4",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.5",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.6",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.7",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.8",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.9",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.10",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.11",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.12",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.13",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.14",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.15",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.125.16",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.17",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.18",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.19",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.20",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.21",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.22",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.23",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.24",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.25",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.26",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.27",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.28",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.29",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.30",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.31",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.32",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.33",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.34",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.35",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.36",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.37",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.38",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.39",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.40",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.41",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.42",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.43",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.44",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.45",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.46",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.47",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.48",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.49",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.50",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.51",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.52",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.53",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.54",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.55",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.56",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.57",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.58",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.59",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.60",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.61",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.62",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.63",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.64",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.65",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.66",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.67",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.68",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.69",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.70",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.71",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.72",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.73",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.74",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.75",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.76",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.77",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.78",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.79",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.80",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.81",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.82",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.83",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.84",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.85",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.86",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.87",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.88",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.89",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.90",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.91",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.92",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.93",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.94",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.95",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.96",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.97",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.98",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.99",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.100",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.101",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.102",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.103",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.104",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.105",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.106",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.107",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.108",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.109",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.110",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.111",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.112",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.113",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.114",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.115",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.116",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.117",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.118",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.119",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.120",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.121",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.122",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.123",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.124",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.125",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.126",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.125.127",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.0",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.1",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.2",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.3",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.4",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.5",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.6",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.7",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.8",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.9",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.10",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.11",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.12",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.13",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.14",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.15",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.16",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.17",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.18",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.19",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.20",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.21",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.22",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.23",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.24",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.25",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.26",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.27",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.28",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.29",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.30",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.31",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.32",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.33",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.34",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.35",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.36",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.37",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.38",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.39",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.40",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.41",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.42",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.43",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.44",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.45",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.46",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.47",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.48",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.49",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.50",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.51",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.52",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.53",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.54",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.55",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.56",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.57",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.58",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.59",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.60",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.61",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.62",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.63",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.64",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.65",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.66",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.67",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.68",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.69",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.70",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.71",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.72",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.73",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.74",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.75",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.76",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.77",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.78",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.79",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.80",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.81",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.82",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.83",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.84",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.85",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.86",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.87",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.88",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.89",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.90",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.91",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.92",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.93",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.94",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.95",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.96",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.97",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.98",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.99",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.100",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.101",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.102",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.103",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.104",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.105",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.106",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.107",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.108",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.109",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.110",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.111",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.112",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.113",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.114",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.115",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.116",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.117",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.118",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "168.205.126.119",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.120",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.121",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.122",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.123",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.124",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.125",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.126",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "168.205.126.127",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.0",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.1",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.2",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.3",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.4",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.5",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.6",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.7",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.8",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.9",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.10",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.11",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.12",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.13",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.14",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.15",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.16",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.17",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.18",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.19",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.20",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.21",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "177.221.57.22",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.23",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.24",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.25",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.26",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.27",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.28",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.29",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.30",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.31",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.32",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.33",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.34",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.35",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.36",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.37",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.38",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.39",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.40",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.41",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.42",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.43",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.44",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.45",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.46",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.47",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.48",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.49",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.50",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.51",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.52",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.53",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.54",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.55",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.56",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.57",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.58",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.59",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.60",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.61",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.62",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.63",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.64",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.65",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.66",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.67",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "177.221.57.68",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.69",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.70",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.71",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.72",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.73",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.74",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.75",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.76",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.77",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.78",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.79",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.80",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.81",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.82",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.83",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.84",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.85",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.86",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.87",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.88",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.89",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.90",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.91",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.92",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.93",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.94",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.95",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.96",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.97",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.98",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.99",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.100",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.101",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.102",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.103",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.104",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.105",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.106",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.107",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.108",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.109",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.110",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.111",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.112",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": true
+      },
+      {
+         "ip": "177.221.57.113",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.114",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": true,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.115",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.116",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.117",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.118",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.119",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.120",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.121",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.122",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.123",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.124",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.125",
+         "huawei": "",
+         "ixc.brasildigital.net.br": true,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.126",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "177.221.57.127",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.128",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.129",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.130",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.131",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.132",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.133",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.134",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.135",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.136",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.137",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.138",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.139",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.140",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.141",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.142",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.143",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.144",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.145",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.146",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.147",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.148",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.149",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.150",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.151",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.152",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.153",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.154",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.155",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.156",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.157",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.158",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.159",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.160",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.161",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.162",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.163",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.164",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.165",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.166",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.167",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.168",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.169",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.170",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.171",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.172",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.173",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.174",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.175",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.176",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.177",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.178",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.179",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.180",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.181",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.182",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.183",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.184",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.185",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.186",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.187",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.188",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.189",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.190",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.191",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.192",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.193",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.194",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.195",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.196",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.197",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.198",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.199",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.200",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.201",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.202",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.203",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.204",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.205",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.206",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.207",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.208",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.209",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.210",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.211",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.212",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.213",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.214",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.215",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.216",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.217",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.218",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.219",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.220",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.221",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.222",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.223",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.224",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.225",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.226",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.227",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.228",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.229",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.230",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.231",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.232",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.233",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.234",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.235",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.236",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.237",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.238",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.239",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.240",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.241",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.242",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.243",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.244",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.245",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.246",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.247",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.248",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.249",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.250",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.251",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.252",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.253",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.254",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      },
+      {
+         "ip": "187.236.239.255",
+         "huawei": "",
+         "ixc.brasildigital.net.br": false,
+         "ixc.candeiasnet.com.br": false,
+         "ixc.br364telecom.com.br": false
+      }
+   ]
+}

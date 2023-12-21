@@ -2,7 +2,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv as env
-import yasmin
+import py.yasmin as yasmin
 
 ###################Logical information################
 
@@ -55,6 +55,7 @@ def get_estado_data_ixc(estado_id, base):
 
     estado_nome = []
 
+    # Gets the costumers Estado
     registros = client_estado['registros']
     for sigla in registros:
         estado_nome.append(sigla['sigla'])

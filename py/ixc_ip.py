@@ -37,6 +37,7 @@ def ip_list(client_data_brasil):
     ip_list = total
     return total
 
+# Gets the total of ips in ixc
 def total_ip(client_data_brasil):
     ip = []
     registros = client_data_brasil['registros']
@@ -44,6 +45,7 @@ def total_ip(client_data_brasil):
         ip.append(ip['ip'])
     return ip
 
+# Gets the client id in ixc
 def client_id(client_data_brasil):
     info_contrato = []
     registros = client_data_brasil['registros']

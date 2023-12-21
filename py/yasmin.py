@@ -1,7 +1,7 @@
 import ixc_radusuarios
 import ixc_client
-import ixc_cidade
-import colocadinha
+import py.ixc_cidade as ixc_cidade
+import py.colocadinha as colocadinha
 import ixc_uf
 
 ########################### Y A S M I N ###########################
