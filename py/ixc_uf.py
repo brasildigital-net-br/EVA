@@ -2,7 +2,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv as env
-import py.yasmin as yasmin
+import yasmin as yasmin
 
 ###################Logical information################
 

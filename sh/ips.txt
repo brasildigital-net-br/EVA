@@ -1,3 +1,36 @@
-10.160.19.84
-45.179.86.13
-45.179.86.13
+Info: The configuration takes effect on the current user terminal interface only.
+<BRD-PVO-DPD-R:Z>display ip routing-table 45.179.86.0 25 longer-match 
+Route Flags: R - relay, D - download to fib, T - to vpn-instance, B - black hole route
+------------------------------------------------------------------------------
+Routing Table : _public_
+         Destinations : 33       Routes : 33        
+
+Destination/Mask    Proto   Pre  Cost        Flags NextHop         Interface
+
+    45.179.86.0/23  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+    45.179.86.0/24  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+    45.179.86.0/25  Static  60   0             DB  0.0.0.0         NULL0
+    45.179.86.0/32  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+    45.179.86.5/32  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+   45.179.86.13/32  Unr     63   0             D   45.179.86.13    Eth-Trunk0.2022
+   45.179.86.14/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.20/30  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+   45.179.86.25/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.26/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.27/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.28/32  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+   45.179.86.29/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.40/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.44/30  IBGP    255  0             RD  172.28.255.233  Eth-Trunk0.83
+   45.179.86.52/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.66/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.67/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.68/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.70/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.71/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.72/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+   45.179.86.73/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+  45.179.86.113/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+  45.179.86.115/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+  45.179.86.116/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83
+  45.179.86.117/32  IBGP    255  0             RD  10.10.255.194   Eth-Trunk0.83

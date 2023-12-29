@@ -3069,7 +3069,7 @@
       {
          "ip": "168.205.126.54",
          "huawei": "",
-         "ixc.brasildigital.net.br": false,
+         "ixc.brasildigital.net.br": true,
          "ixc.candeiasnet.com.br": false,
          "ixc.br364telecom.com.br": false
       },
