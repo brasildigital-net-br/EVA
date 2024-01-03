@@ -3,8 +3,8 @@
 
 h="10.200.1.200"
 port=50022  
-user="***"
-pass="****"
+user="###########"
+pass="#############"
 ARQUIVO_SAIDA="output.txt"
 ARQUIVO_IPS="ips.txt"
 ip="45.179.86.0"
@@ -22,7 +22,9 @@ cli="display ip routing-table "$ip" "$range" longer-match"
 #        "177.221.57.0/25",
 #        "187.236.239.128/25", 
 
-sshpass -p "$pass" ssh -p "$port" "$user@$h" "$no_page" "$cli" | grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "$ARQUIVO_IPS"
+# | grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"
+
+sshpass -p "$pass" ssh -p "$port" "$user@$h" | "$no_page" | "$cli" > "$ARQUIVO_IPS"
 
 if [ $? -eq 0 ]; then
   echo "Comando executado com sucesso. IPs filtrados salvos em $ARQUIVO_IPS"
