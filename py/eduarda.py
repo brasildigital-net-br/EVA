@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
     ip_result = {"prefixos": []}
 
-    #alunos = {"alunos": []}
+
 
     for i in ip_list:
         ip = i
