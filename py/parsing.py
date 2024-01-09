@@ -4,6 +4,10 @@ import re
 from dotenv import load_dotenv as env
 import os
 
+with open("output.txt", 'w') as f:
+    f.write("")
+
+
 if __name__ == '__main__':
     env(".env")
 
@@ -49,6 +53,9 @@ if __name__ == '__main__':
 
         matches = pattern.findall(output)
 
+        #matches = set(matches) 
+
+
         matches_len = len(matches)
 
         if matches_len == 0:
@@ -56,5 +63,16 @@ if __name__ == '__main__':
         else:
             with open("output.txt", 'a') as f:
                 for match in matches:
+                    match = match.split("/", 1)[0]
+                    #print(match)
                     f.write("{}\n".format(match))
-    
+                    
+
+
+    seen = set()
+    with open('output.txt') as infile:
+        with open('sample.txt', 'w') as outfile:
+            for line in infile:
+                if line not in seen:
+                    outfile.write(line)
+                    seen.add(line)

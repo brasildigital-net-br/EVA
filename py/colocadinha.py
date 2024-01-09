@@ -20,7 +20,3 @@ def get_client_base(client_data):
     base = [a for a in client_base.split('.') if a]
     base = base[1]
     return base
-
-
-
-

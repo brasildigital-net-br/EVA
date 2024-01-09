@@ -83,15 +83,17 @@ if __name__ == '__main__':
                             else:
                                 print("")                
                 bar()
-
+                
                 # Escreve as info dos ips em uso
                 ip_result["prefixos"].append(
                     {
                     "ip": ipv4,
+                    "Range": ip,
                     "huawei": "",
                     "ixc.brasildigital.net.br": brd,
                     "ixc.candeiasnet.com.br": cd,
-                    "ixc.br364telecom.com.br": br364
+                    "ixc.br364telecom.com.br": br364,
+                    "Disponibilidade": None
                     }
                 )
                 

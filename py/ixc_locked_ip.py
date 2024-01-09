@@ -22,6 +22,7 @@ def block_ip(ip):
         "179.63.158.0/24",
         "179.63.159.0/24",
         "45.179.86.128/25",
+        #"45.179.86.0/29", -- search how to jump
     ]
 
     ip_range = ipaddress.IPv4Address(ip)
