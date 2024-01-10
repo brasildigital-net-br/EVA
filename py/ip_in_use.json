@@ -3369,11 +3369,11 @@
     {
       "ip": "168.205.125.118",
       "Range": "168.205.125.0/25",
-      "huawei": "168.205.125.118",
-      "ixc.brasildigital.net.br": true,
+      "huawei": "",
+      "ixc.brasildigital.net.br": false,
       "ixc.candeiasnet.com.br": false,
       "ixc.br364telecom.com.br": false,
-      "Disponibilidade": true
+      "Disponibilidade": null
     },
     {
       "ip": "168.205.125.119",

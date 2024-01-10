@@ -1,0 +1,341 @@
+{
+    "Schema": [    
+        {
+            "login": "BRD.PVO.DPD.COB",
+            "ip": "10.0.1.201",
+            "vendor": "zte", 
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.UGM.COA",
+            "ip": "10.0.50.200",
+            "vendor":  "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VLV.COD",
+            "ip": "10.0.34.204",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.JAME.COA",
+            "ip": "10.0.54.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.UGM.COA", 
+            "ip": "10.0.50.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.STAN.COA",
+            "ip": "10.0.56.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VSBU.COA",
+            "ip": "10.0.65.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.HUT.NHV.COA",
+            "ip": "10.0.57.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.ECV.COA",
+            "ip": "10.0.32.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.EXT.COA",
+            "ip": "10.0.66.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VNCF.COA",
+            "ip": "10.0.68.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login":"BRD.PVO.JAPA.COA",
+            "ip": "10.0.51.200",
+            "vendor": "zte",
+            "nms:": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.CDEY.SAMU.COA",
+            "ip":"10.0.64.200",
+            "vendor":"zte",
+            "nms":"netnumen"
+        },
+        {
+            "login": "BRD.NVME.NOAO.COA",
+            "ip":"",
+            "vendor":"zte",
+            "nms":"netnumen"
+        },
+        {
+            "login": "BRD.PVO.BNO.COA",
+            "ip": "10.0.25.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.CDEY.PLH.COA",
+            "ip": "10.0.31.200",
+            "vendor":"fiberhome",
+            "nms":"unm"
+        },
+        {
+            "login":"BRD.PVO.ECV.COB",
+            "ip":"10.0.32.201",
+            "vendor":"fiberhome",
+            "nms":"unm"
+        },
+        {
+
+            "login":"BRD.PVO.ECV.COC",
+            "ip":"10.0.32.202",
+            "vendor":"fiberhome",
+            "nms":"unm"
+        },
+        {
+            "login":"BRD.PVO.ELD.COA",
+            "ip":"10.0.33.200",
+            "vendor":"fiberhome",
+            "nms":"unm"
+        },
+        {
+            "login": "BRD.PVO.GFB.COA",
+            "ip": "10.0.24.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.ITDO.CNT.COA",
+            "ip": "10.0.42.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.NOH.COA",
+            "ip": "10.0.40.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.TRN.COA",
+            "ip": "10.0.35.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.VLV.COA",
+            "ip": "10.0.34.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.VLV.COC",
+            "ip": "10.0.34.202",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.SAF.COA",
+            "ip": "10.0.49.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.GUM.CNT.COA",
+            "ip": "10.0.47.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {        
+            "login": "BRD.NVME.CNV.COA",
+            "ip": "10.0.45.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.DPD.COB",
+            "ip": "10.0.1.201",
+            "vendor": "zte", 
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.UGM.COA",
+            "ip": "10.0.50.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VLV.COD",
+            "ip": "10.0.34.204",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.JAME.COA",
+            "ip": "10.0.54.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.UGM.COA", 
+            "ip": "10.0.50.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.STAN.COA",
+            "ip": "10.0.56.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VSBU.COA", 
+            "ip": "10.0.65.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.HUT.NHV.COA",
+            "ip": "10.0.57.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.ECV.COA",
+            "ip": "10.0.32.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.EXT.COA",
+            "ip": "10.0.66.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.VNCF.COA", 
+            "ip": "10.0.68.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.JAPA.COA",
+            "ip": "10.0.51.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.CDEY.SAMU.COA",
+            "ip": "10.0.64.200",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.NVME.NOAO.COA",
+            "ip": "",
+            "vendor": "zte",
+            "nms": "netnumen"
+        },
+        {
+            "login": "BRD.PVO.BNO.COA",
+            "ip": "10.0.25.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login":"BRD.CDEY.PLH.COA", 
+            "ip": "10.0.31.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.ECV.COB",
+            "ip": "10.0.32.201",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.ECV.COC",
+            "ip": "10.0.32.202",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.ELD.COA",
+            "ip": "10.0.33.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.GFB.COA",
+            "ip": "10.0.24.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.ITDO.CNT.COA",
+            "ip": "10.0.42.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.NOH.COA",
+            "ip": "10.0.40.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.TRN.COA",
+            "ip": "10.0.35.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.VLV.COA",
+            "ip": "10.0.34.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.VLV.COC",
+            "ip": "10.0.34.202",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.PVO.SAF.COA",
+            "ip": "10.0.49.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.GUM.CNT.COA",
+            "ip": "10.0.47.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        },
+        {
+            "login": "BRD.NVME.CNV.COA",
+            "ip": "10.0.45.200",
+            "vendor": "fiberhome",
+            "nms": "unm"
+        }
+    ]
+}

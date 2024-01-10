@@ -113,3 +113,5 @@ validators==0.22.0
 zeep==4.2.1
 zipp==3.17.0
 zope.interface==6.1
+streamlit_ttyd @ git+https://github.com/NeveIsa/streamlit_ttyd
+
