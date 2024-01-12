@@ -1,3 +1,7 @@
+import sys
+sys.path.append('../ixc_api/')
+sys.path.append('../json/')
+
 import streamlit as st
 import ixc_su_oss_chamado as su_os
 import json
@@ -5,6 +9,7 @@ from datetime import date
 import pandas as pd
 from streamlit_ttyd import terminal
 import time 
+import os
 
 
 st.set_page_config(page_title="Meu Site Streamlite")
@@ -22,7 +27,7 @@ with st.container():
 
 
 with st.container():
-    with open('ip_in_use.json', 'r') as json_file:
+    with open('../json/ip_in_use.json', 'r') as json_file:
         data = json.load(json_file)
     
 
@@ -39,51 +44,48 @@ with st.container():
 
 with st.container():
 
-    #st.text("Terminal showing processes running on your system using the top command")
-    port = 7681
-    # start the ttyd server and display the terminal on streamlit
-    ttydprocess, port = terminal(cmd="./main.sh")
+    option = st.selectbox(
+    'Select one ip above:',
 
-    st.text(f"ttyd server is running on port : {port}")
+    (   "45.179.86.0/25", 
+        "168.205.124.0/25",
+        "168.205.125.0/25", 
+        "168.205.126.0/25", 
+        "177.221.57.0/25",
+        "187.236.239.128/25",
+        "ls -lha",
+        "pwd"
+    ))
+
+    st.write('You selected:', option)
+
+
+    os.system()
+
+    match option:
+        case "45.179.86.0/25":
+            print(option)
+        case "168.205.124.0/25":
+            print(option)
+        case "168.205.125.0/25":
+            print(option)
+        case "168.205.126.0/25":
+            print(option)
+        case "177.221.57.0/25":
+            print(option)
+        case "187.236.239.128/25":
+            print(option)
+
+        
 
 
 
 
 
-with st.container():
-    st.write("----")
-    today = date.today()
-    print(today)
 
-    chamados = su_os.get_client_data_ixc(today, '0001')
-
-    data = chamados
-
-    df = pd.DataFrame(data['registros'])
     
 
-    latitude = df.loc[:,"latitude"]
-    longitude = df.loc[:,"longitude"]
-
-    st.dataframe(df)
-    #st.map(data=df, latitude=latitude, longitude=longitude, color=None, size=None, zoom=None, use_container_width=True)
 
 
 
 
-
-
-'''with st.container():
-    st.write("----")
-    today = date.today()
-    print(today)
-
-    chamados = su_os.get_client_data_ixc(today, '0001')
-
-    data = json.loads(chamados.text)
-
-    df = pd.DataFrame(data['registros'])
-
-    st.dataframe(df)'''
-
-    # retornar todas as os com o setor == ID_DST[1...15]

@@ -9,6 +9,8 @@ import os
 import ixc_locked_ip
 import json
 from alive_progress import alive_bar
+import socket,sys
+
 
 ##################################### E D U A R D A ###########################################
 
@@ -29,7 +31,13 @@ if __name__ == '__main__':
 
     zip = list(zip(host, aut))
 
-    ip_list = [
+    # Passando os prefixo como argumento.
+    ip_list = []
+    arg = sys.argv[1]
+    ip_list.append(arg)
+    
+
+    ip_list_l = [
 
         "45.179.86.0/25", 
         "168.205.124.0/25",
