@@ -3,7 +3,6 @@
 def get_client_data():
     client_data = input("Enter the client data here:")
     id = [a for a in client_data.split('.') if a]
-
     return client_data
 
 # pega de forma unica o contrato para consulta

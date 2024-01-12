@@ -1,12 +1,17 @@
+import sys
+
+sys.path.append('../ixc_api/')
+
+
 import json
 from alive_progress import alive_bar
 
 
 if __name__ == '__main__':
-    with open('ip_result.json', 'r') as json_file:
+    with open('../json/ip_result.json', 'r') as json_file:
         data = json.load(json_file)
 
-    with open('sample.txt', 'r') as txt_file:
+    with open('../output/sample.txt', 'r') as txt_file:
         ips_txt = txt_file.read().splitlines()
 
     huawei_ips = [
@@ -30,6 +35,6 @@ if __name__ == '__main__':
                     break
             bar()
 
-        with open('ip_in_use.json', 'w') as json_file:
+        with open('../json/ip_in_use.json', 'w') as json_file:
             json.dump(data, json_file, indent=2)
 

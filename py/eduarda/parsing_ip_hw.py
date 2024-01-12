@@ -1,3 +1,7 @@
+import sys
+
+sys.path.append('../ixc_api/')
+
 import paramiko
 import time
 import re
@@ -11,7 +15,7 @@ with open("output.txt", 'w') as f:
 
 
 if __name__ == '__main__':
-    env(".env")
+    env("../.env")
 
     ip_h = os.getenv('huawei')
     port = os.getenv('port')
@@ -64,7 +68,7 @@ if __name__ == '__main__':
             if matches_len == 0:
                 print("==========| Range {} se encontra sem ips em uso |==========".format(ip))
             else:
-                with open("output.txt", 'a') as f:
+                with open("../output/output.txt", 'a') as f:
                     for match in matches:
                         match = match.split("/", 1)[0]
                         #print(match)
@@ -73,8 +77,8 @@ if __name__ == '__main__':
             bar()
 
         seen = set()
-        with open('output.txt') as infile:
-            with open('sample.txt', 'w') as outfile:
+        with open('../output/output.txt') as infile:
+            with open('../output/sample.txt', 'w') as outfile:
                 for line in infile:
                     if line not in seen:
                         outfile.write(line)

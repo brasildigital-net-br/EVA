@@ -1,5 +1,5 @@
 import streamlit as st
-import su_oss_chamado as su_os
+import ixc_su_oss_chamado as su_os
 import json
 from datetime import date
 import pandas as pd

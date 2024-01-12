@@ -1,3 +1,7 @@
+import sys
+sys.path.append('../ixc_api/')
+
+
 import ixc_ip
 import ixc_client
 from dotenv import load_dotenv as env
@@ -9,7 +13,7 @@ from alive_progress import alive_bar
 ##################################### E D U A R D A ###########################################
 
 if __name__ == '__main__':
-    env(".env")
+    env("../.env")
 
     # VARS DE CONSULTA
     ixc_brd = os.getenv('IXC_BRASILDIGITAL_URI')
@@ -97,7 +101,7 @@ if __name__ == '__main__':
                     }
                 )
                 
-                with open('ip_result.json', 'w') as f:
+                with open('../json/ip_result.json', 'w') as f:
                     json.dump(ip_result, f, indent=3)
 
 

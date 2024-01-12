@@ -1,13 +1,17 @@
+import sys
+sys.path.append('../ixc_api/')
+
 import ixc_radusuarios
 import ixc_client
-import ixc_cidade as ixc_cidade
-import colocadinha as colocadinha
+import ixc_cidade
+import colocadinha
 import ixc_uf
+
 
 ########################### Y A S M I N ###########################
 if __name__ == '__main__':
 
-    # DADOS BASE #
+    # DADOS BASE
     client_data = colocadinha.get_client_data() # Inicia a operação inserindo o contrato.base == 4173.0003
 
     client_id = colocadinha.get_client_id(client_data) # Pega o output do client_data em formato de lista e pega a primeira celula ID

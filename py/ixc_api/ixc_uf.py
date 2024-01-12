@@ -2,13 +2,13 @@ import requests
 import json
 import os
 from dotenv import load_dotenv as env
-import yasmin as yasmin
+import yasmin
 
 ###################Logical information################
 
 # Trata a url que vai ser usada para consulta do radius do cliente https://{ixc_host}/webservice/v1/radusuarios
 def get_estado_data_ixc(estado_id, base):
-    env(".env")
+    env("../.env")
 
      # Estrutura de decisão de base a partir do input get_client_data()
     if base == "0001": #Brasil Digital

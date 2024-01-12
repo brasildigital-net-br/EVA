@@ -7,7 +7,7 @@ from dotenv import load_dotenv as env
 
 # Link de consulta para https://{ixc_host}/webservice/v1/cliente
 def get_client_data_ixc(id, base):
-    env(".env")
+    env("../.env")
 
     # Estrutura de decisão de base a partir do input get_client_data()
     if base == "0001": #Brasil Digital

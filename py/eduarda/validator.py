@@ -1,6 +1,6 @@
 import json
 
-with open("ip_in_use.json", encoding='utf-8') as f:
+with open("../json/ip_in_use.json", encoding='utf-8') as f:
     dados = json.load(f)
 
 
