@@ -22,7 +22,9 @@ if __name__ == '__main__':
     id_login = os.getenv('id_login')
     passw = os.getenv('pass')
 
-
+    # ip_list = []
+    # arg = sys.argv[1]
+    # ip_list.append(arg)
 
     ip_list = [
 

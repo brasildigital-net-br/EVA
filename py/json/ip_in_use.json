@@ -1182,11 +1182,11 @@
     {
       "ip": "168.205.124.3",
       "Range": "168.205.124.0/25",
-      "huawei": "",
-      "ixc.brasildigital.net.br": false,
+      "huawei": "168.205.124.3",
+      "ixc.brasildigital.net.br": true,
       "ixc.candeiasnet.com.br": false,
       "ixc.br364telecom.com.br": false,
-      "Disponibilidade": null
+      "Disponibilidade": true
     },
     {
       "ip": "168.205.124.4",

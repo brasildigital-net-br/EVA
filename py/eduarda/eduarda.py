@@ -32,12 +32,12 @@ if __name__ == '__main__':
     zip = list(zip(host, aut))
 
     # Passando os prefixo como argumento.
-    ip_list = []
-    arg = sys.argv[1]
-    ip_list.append(arg)
+    # ip_list = []
+    # arg = sys.argv[1]
+    # ip_list.append(arg)
     
 
-    ip_list_l = [
+    ip_list = [
 
         "45.179.86.0/25", 
         "168.205.124.0/25",
