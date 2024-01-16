@@ -13,7 +13,7 @@ RUN git clone https://github.com/brasildigital-net-br/EVA.git .
 
 WORKDIR /app/yasmin/py/
 
-RUN pip3 install -r requirements.txt
+RUN pwd && pip3 install -r requirements.txt
 
 WORKDIR /app
 
