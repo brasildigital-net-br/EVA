@@ -13,4 +13,7 @@ Nesse projeto esta sendo utilizado como fonte de dados a API do IXC aonde e feit
 - main - Consolida o uso do ip validando em um .txt e em json
 
 
- - Eduarda - Parsin - main
+ - Eduarda - Parsin - main\
+
+
+env:/app/yasmin/py/.env

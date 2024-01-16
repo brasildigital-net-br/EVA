@@ -1,0 +1,30 @@
+name: Build e Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v2
+
+    - name: Build da imagem Docker
+      run: |
+        docker build -t julia_carolina .
+
+  run-container:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v2
+
+    - name: Run Docker Container
+      run: |
+        docker run -d --name julia_carolina -p 8501:8501 julia_carolina

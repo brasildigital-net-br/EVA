@@ -53,10 +53,14 @@ if __name__ == '__main__':
             output = commands.recv(65535)        
             output = output.decode("utf-8")      
 
+            #print(output)
+
             commands.send("display ip routing-table {} 25 longer-match\n".format(ip))
             time.sleep(.9)
             output = commands.recv(65535)
             output = output.decode("utf-8")
+
+            #print(output)
 
             pattern = re.compile(r'\b(\d+\.\d+\.\d+\.\d+/\d+)\b')
 

@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python
 
 WORKDIR /app
 
@@ -9,9 +9,15 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/brasildigital-net-br/yasmin.git .
+RUN git clone https://github.com/brasildigital-net-br/EVA.git .
+
+WORKDIR /app/yasmin/py/
 
 RUN pip3 install -r requirements.txt
+
+WORKDIR /app
+
+WORKDIR /app/yasmin/py/stramlit/
 
 EXPOSE 8501
 
