@@ -50,7 +50,7 @@ with st.container():
         #today = date.today()
         #print(today)
 
-    resultados = {"prefixos": [{"ip": prefixo["ip"], "Range": prefixo["Range"]} for prefixo in data["prefixos"] if prefixo["Disponibilidade"] is None]}
+    resultados = {"prefixos": [{"ip": prefixo["ip"], "Range": prefixo["Range"], "LastTimeRunning": prefixo["LastTimeRunning"]} for prefixo in data["prefixos"] if prefixo["Disponibilidade"] is None]}
     # criar uma variavel q pega os 3 primeiros ips livres de cada prefixo e já realizar uma validação em cima deles
     # e expor isso em um dataframe
 

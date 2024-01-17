@@ -8,6 +8,7 @@ import os
 import json
 from alive_progress import alive_bar
 import socket,sys
+import datetime
 
 
 ##################################### E D U A R D A ###########################################
@@ -94,6 +95,7 @@ if __name__ == '__main__':
                                 print("")                
                 bar()
                 
+                now = datetime.date.today()
                 # Escreve as info dos ips em uso
                 ip_result["prefixos"].append(
                     {
@@ -103,7 +105,8 @@ if __name__ == '__main__':
                     "ixc.brasildigital.net.br": brd,
                     "ixc.candeiasnet.com.br": cd,
                     "ixc.br364telecom.com.br": br364,
-                    "Disponibilidade": None
+                    "Disponibilidade": None,
+                    "LastTimeRunning": "{}".format(now)
                     }
                 )
                 
