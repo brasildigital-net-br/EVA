@@ -1,7 +1,5 @@
 import sys
-
 sys.path.append('../ixc_api/')
-
 import paramiko
 import time
 import re

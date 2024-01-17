@@ -1,12 +1,10 @@
 import sys
 sys.path.append('../ixc_api/')
-
-
 import ixc_ip
 import ixc_client
+import ixc_locked_ip
 from dotenv import load_dotenv as env
 import os
-import ixc_locked_ip
 import json
 from alive_progress import alive_bar
 import socket,sys

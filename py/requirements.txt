@@ -4,7 +4,6 @@ DateTime==5.4
 load-dotenv==0.1.0
 nassl==5.1.0
 nh3==0.2.15
-numpy==1.25.0
 pandas==2.0.2
 paramiko==3.4.0
 streamlit==1.29.0
